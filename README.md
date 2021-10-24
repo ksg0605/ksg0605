@@ -9,6 +9,7 @@
 ![ksg0605's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksg0605&show_icons=true)
 
 ### Languages and Tools:
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732212.png" width="30" height="30/>"
 ![HTML5](https://cdn-icons-png.flaticon.com/128/732/732212.png){: width="30" height="30"}
 ![CSS3](https://cdn-icons-png.flaticon.com/128/732/732190.png){: width="30" height="30"}
 ![JAVASCRIPT](https://cdn-icons-png.flaticon.com/128/919/919828.png){: width="30" height="30"}
