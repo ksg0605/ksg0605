@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying on Jeju National University.
 - 🌱 I’m currently learning Node.JS and Spring
-- 💬 Ask me about [![Instagram](https://cdn-icons-png.flaticon.com/128/2111/2111463.png){: width="30" height="30"}](https://www.instagram.com/sunny__kyu/?hl=ko) [![E-mail](https://cdn-icons-png.flaticon.com/128/732/732200.png){: width="30" height="30"}](ksg0605@gmail.com)
+- 💬 Ask me about <a href="https://www.instagram.com/sunny__kyu/?hl=ko" height="30" width="30"> <img src="(https://cdn-icons-png.flaticon.com/128/2111/2111463.png"></a> [![Instagram](https://cdn-icons-png.flaticon.com/128/2111/2111463.png){: width="30" height="30"}](https://www.instagram.com/sunny__kyu/?hl=ko) [![E-mail](https://cdn-icons-png.flaticon.com/128/732/732200.png){: width="30" height="30"}](ksg0605@gmail.com)
 
 ![ksg0605's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksg0605&show_icons=true)
 
