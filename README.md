@@ -8,4 +8,4 @@
 
 ![ksg0605's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksg0605&show_icons=true)
 
-### Languages and Tools:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ksg0605=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
